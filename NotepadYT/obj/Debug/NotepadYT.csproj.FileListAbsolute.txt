@@ -1,0 +1,12 @@
+D:\Projects\C#\Youtube\NotepadYT\NotepadYT\obj\Debug\NotepadYT.csprojAssemblyReference.cache
+D:\Projects\C#\Youtube\NotepadYT\NotepadYT\obj\Debug\NotepadYT.Properties.Resources.resources
+D:\Projects\C#\Youtube\NotepadYT\NotepadYT\obj\Debug\NotepadYT.View.Main.resources
+D:\Projects\C#\Youtube\NotepadYT\NotepadYT\obj\Debug\NotepadYT.csproj.GenerateResource.cache
+D:\Projects\C#\Youtube\NotepadYT\NotepadYT\obj\Debug\NotepadYT.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Youtube\NotepadYT\NotepadYT\bin\Debug\NotepadYT.exe.config
+D:\Projects\C#\Youtube\NotepadYT\NotepadYT\bin\Debug\NotepadYT.exe
+D:\Projects\C#\Youtube\NotepadYT\NotepadYT\bin\Debug\NotepadYT.pdb
+D:\Projects\C#\Youtube\NotepadYT\NotepadYT\obj\Debug\NotepadYT.exe
+D:\Projects\C#\Youtube\NotepadYT\NotepadYT\obj\Debug\NotepadYT.pdb
+D:\Projects\C#\Youtube\NotepadYT\NotepadYT\obj\Debug\NotepadYT.View.FontForm.resources
+D:\Projects\C#\Youtube\NotepadYT\NotepadYT\obj\Debug\NotepadYT.View.ColorForm.resources
